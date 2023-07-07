@@ -24901,6 +24901,7 @@
 
         .name {
             font-size: 1rem;
+            display:flex;
         }
 
         .name:hover {
@@ -24944,4 +24945,9 @@
             margin-bottom: 5px;
             padding: 7px 25px;
             text-decoration: none;
+        }
+
+        .instaphoto{
+            border-radius:100%;
+            width:100px; 
         }
